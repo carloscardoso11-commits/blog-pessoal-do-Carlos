@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+}
+header{
+    background-color: aquamarine;
+    color: mediumblue;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main{
+    display: flex;
+    max-width: 800px;
+margin: 20px;
+padding: 15px;
+}
+article{
+    background-color: white;
+    color: black;
+    text-align: justify;
+}
